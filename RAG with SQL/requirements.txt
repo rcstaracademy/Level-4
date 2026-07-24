@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_openai
+sqlalchemy
+pyodbc
+llama-index
+llama_index.llms.openai
